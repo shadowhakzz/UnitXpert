@@ -1,3 +1,0 @@
-tkinter>=8.6
-ttkthemes>=3.2.2
-pillow>=9.0.0 
